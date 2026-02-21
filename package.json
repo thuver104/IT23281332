@@ -1,0 +1,20 @@
+{
+  "name": "it23281332",
+  "version": "1.0.0",
+  "description": "Lab 04 -Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuver104/IT23281332.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuver104/IT23281332/issues"
+  },
+  "homepage": "https://github.com/thuver104/IT23281332#readme"
+}
