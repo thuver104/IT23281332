@@ -1,1 +1,3 @@
-console.log("Node.js project initialized successfully!");
+exports.myFunction = function () {
+  return "Hello from my module!";
+};
