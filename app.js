@@ -45,4 +45,4 @@ const myPromise = new Promise((resolve, reject) => {
 
 myPromise
   .then(result => console.log(result))
-  .catch(error => console.log(error));
+  .catch(error => console.log(errorr));
